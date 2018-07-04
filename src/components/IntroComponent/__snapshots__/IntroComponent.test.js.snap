@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IntroComponent Test renders correctly 1`] = `
+<section
+  className="sc-bdVaJa yfbNE"
+>
+  <div
+    className="sc-bwzfXH bDyzcq"
+  >
+    <img
+      alt="7 news logo"
+      className="sc-htpNat eZHfRK"
+      src="logo.png"
+    />
+    <h1
+      className="sc-bxivhb gRZAkT"
+    >
+      Home and Away
+    </h1>
+  </div>
+</section>
+`;
